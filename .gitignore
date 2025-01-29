@@ -1,0 +1,10 @@
+
+*.o
+test
+*.d
+*.log
+*.ou
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
